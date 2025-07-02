@@ -1,2 +1,2 @@
 # eventif
-Trabalho de Programação Coorporativa de Django.
+Trabalho de Programação Corporativa de Django - Biblioteca Letterboxd
